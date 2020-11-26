@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 40%;
+    padding: 22px,14px;
+    scroll-padding-right: 20%;
+    line-height: 40px;
+    background-color: whitesmoke;
+    margin-top: 2%;
+    margin-left: 35%;
+}
+ 
