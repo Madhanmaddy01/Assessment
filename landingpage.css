@@ -31,4 +31,4 @@ header ul li{
     font-weight: 300;
     letter-spacing: 1px;
 }
-
+@media (max-width:900px)
